@@ -37514,7 +37514,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.moodle.eklas",
-    "versioncode" : "201601",
+    "versioncode" : "201602",
     "versionname" : "3.1.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
