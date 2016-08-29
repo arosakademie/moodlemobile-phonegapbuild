@@ -37513,7 +37513,7 @@ angular.module('mm.addons.mod_quiz')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.eklas",
+    "app_id" : "com.moodle.eKlas",
     "versioncode" : "201602",
     "versionname" : "3.1.2",
     "cache_expiration_time" : 300000,
